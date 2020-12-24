@@ -1,0 +1,1 @@
+# go-rabbit-email-service
